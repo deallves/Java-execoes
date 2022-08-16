@@ -1,8 +1,7 @@
-
 public class Fluxo {
 	
-
-	    public static void main(String[] args) {
+	
+	        public static void main(String[] args) {
 	        System.out.println("Ini do main");
 	        metodo1();
 	        System.out.println("Fim do main");
